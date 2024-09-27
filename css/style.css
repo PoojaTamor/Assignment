@@ -413,3 +413,11 @@ body{
               
         
 }
+@media (max-width:380px) {
+    .left-text{
+        letter-spacing: 3px;
+    }
+    .side-text h3 {
+        font-size: 17px;
+    }
+}
